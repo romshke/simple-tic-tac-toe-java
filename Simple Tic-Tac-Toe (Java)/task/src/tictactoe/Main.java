@@ -137,6 +137,8 @@ public class Main {
                 scanner.nextLine();
             }
         }
+
+        scanner.close();
     }
 
     public static void main(String[] args) {
